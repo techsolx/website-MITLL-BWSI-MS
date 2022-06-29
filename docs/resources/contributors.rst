@@ -40,7 +40,7 @@ The curriculum is constantly improving, and is supported by enthusiastic individ
 
 
 Interested in helping out, but not sure where to start? Here are some ideas for improving the course:
-	- Answer questions on `Piazza <https://piazza.com/mit/spring2020/bwrmsstudents>`_!
+	- Answer questions on `Piazza <https://piazza.com/mit/summer2022/bwrmsstudents>`_!
 	- Teach/run through the course yourself, and give feedback on the labs/website!
 	- Create a larger `RACECAR image <https://mit-bwsi-racecar-ms.github.io/website/docs/setup/racecar_software.html>`_ (32GB -> 64GB or 128 GB)
 	- Convert Python2.7/ROS to Python3/ROS2 (python2.7 has been `deprecated <https://pythonclock.org/>`_) *[in progress]*
@@ -63,7 +63,7 @@ Have feedback for the course? Fill out the form below!
 
 Have specific questions?
 	1. Check the `FAQ <https://mit-bwsi-racecar-ms.github.io/website/docs/resources/faq.html>`_
-	2. Check the `Piazza  <https://piazza.com/mit/spring2020/bwrmsstudents>`_
+	2. Check the `Piazza  <https://piazza.com/mit/summer2022/bwrmsstudents>`_
 
 
 Changelog
