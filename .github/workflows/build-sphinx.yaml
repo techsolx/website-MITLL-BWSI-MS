@@ -2,8 +2,7 @@ name: "Build sphinx."
 on:
   push:
     branches:
-      - master
-      - 'main'
+      - "**"
 
 jobs:
   build_docs:
